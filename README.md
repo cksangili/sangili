@@ -1,11 +1,13 @@
 ## Hi there 👋 It's me Sangili Kaliyaperumal
 
-VP- Senior Software Engineer @ Citibank N.A, Singapore
+👨‍💻VP- Senior Software Engineer @ Citibank N.A, Singapore
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://sangili.web.app/)                                                 
+- 🚀 Passionate about designing scalable solutions and crafting clean, efficient code.
+- 🔧 Expertise in: [Java, Python, Angular, ReactJS, MySQL, AWS Cloud,RESTFul API]
+- 🌟 Advocate for continuous learning, team collaboration, and innovation.
+- 💡 Interests: Open-source contributions, cloud architecture, and AI/ML.                                            
 - 🌱 I’m currently learning Business and Data Analytics 
 - 👯 I’m looking to collaborate on Cloud and AI/ML/NLB
-- 🤔 I’m looking for help with Placements IN Singapore
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sangili-kaliyaperumal-5514a653/)
