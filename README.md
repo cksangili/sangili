@@ -3,7 +3,7 @@
 👨‍💻 Senior Software Engineer @ Citibank N.A, Singapore
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🚀 Passionate about designing scalable solutions and crafting clean, efficient code.
-- 🔧 Expertise in: [Java, Python, Angular, ReactJS, MySQL, AWS Cloud,RESTFul API]
+- 🔧 Expertise in: Java, Python, Angular, ReactJS, MySQL, AWS Cloud,RESTFul API
 - 🌟 Advocate for continuous learning, team collaboration, and innovation.
 - 💡 Interests: Open-source contributions, cloud architecture, and AI/ML.                                            
 - 🌱 I’m currently learning Business and Data Analytics 
